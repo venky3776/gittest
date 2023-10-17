@@ -1,3 +1,2 @@
 This is first commit code
-I shifted to FirstBranch
-Now practising merge command in git
+Testing merge command
