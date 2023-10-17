@@ -1,1 +1,3 @@
 This is first commit code
+I shifted to SecondBranch
+It is very nice to code in git.
