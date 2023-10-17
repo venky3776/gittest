@@ -1,2 +1,2 @@
 This is first commit code
-Testing merge command
+Testing merge command git 
